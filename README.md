@@ -3,3 +3,4 @@
 <br><br>
 ### Day Wise Learning Plan
 Day 1 - Python Programming - Fundamentals
+Day 2 - Python Tools, Syntaxes & Data Structures
