@@ -7,4 +7,4 @@ Day 2 - Python Tools, Syntaxes & Data Structures<br>
 Day 3 - Machine Learning Concepts<br>
 Day 4 - Machine Learning Concepts Contd.<br>
 Day 5 & 6 - Pandas Library<br>
-Day 7 - Numpy Library<br>
+Day 7 & 8 - Numpy Library<br>
