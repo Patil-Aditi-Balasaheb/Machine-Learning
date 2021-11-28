@@ -11,4 +11,4 @@ Day 7 & 8 - Numpy Library<br>
 Day 9 & 10 - Matplotlib Library<br>
 Day 11 - Seaborn Library<br>
 Day 12 - Sklearn Library<br>
-Day 13 - Google Colab<br>
+Day 13 & 14 - Google Colab<br>
