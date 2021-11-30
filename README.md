@@ -13,3 +13,4 @@ Day 11 - Seaborn Library<br>
 Day 12 - Sklearn Library<br>
 Day 13 & 14 - Google Colab<br>
 Day 15 - Data Collection<br>
+Day 16 - Liver Disease Prediction - Logistic Regression<br>
