@@ -16,3 +16,6 @@ Day 15 - Data Collection<br>
 Day 16 - Liver Disease Prediction - Logistic Regression<br>
 Day 17 - SVM Algorithm<br>
 DAY 18 - Fake News Detection - Naive Bayes Classifier<br>
+DAY 19 - Android Malware - Decision Tree Algorithm<br>
+DAY 20 - Credit Card Fraud Detection - Random Forest Algorithm<br>
+DAY 21 - Employee Salary Prediction - Linear Regression<br>
