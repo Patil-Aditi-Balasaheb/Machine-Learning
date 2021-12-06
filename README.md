@@ -19,3 +19,4 @@ DAY 18 - Fake News Detection - Naive Bayes Classifier<br>
 DAY 19 - Android Malware - Decision Tree Algorithm<br>
 DAY 20 - Credit Card Fraud Detection - Random Forest Algorithm<br>
 DAY 21 - Employee Salary Prediction - Linear Regression<br>
+DAY 22 - Advertisement and Sales Prediction - Multiple Linear Regression Algorithm<br>
